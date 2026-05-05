@@ -11,3 +11,8 @@ No, a unit test is best suited for specific function requirements. Something lik
 
 ### 2.
 Yes, this is something that is specific enough to be tested by a unit test. You can easily check with a unit test to see if a message is over the max message length. An integration test would be overkill for such an easily testable requirement.
+
+## Github Pages Links
+
+expose: https://rohaansandhu.github.io/Lab5_Starter/expose.html
+explore: https://rohaansandhu.github.io/Lab5_Starter/explore.html
